@@ -2,62 +2,83 @@
 
 # 👋 Hi, I'm Swapnil Mahajan
 
-### 🚀 Algo Trader | Python Developer | Automation Enthusiast  
-💡 Passionate about building automation systems for **BankNifty & Nifty Option Buying**
+### ⚡ Algo Trader | Python Developer | Automation Strategist
+💹 Building smart trading systems for **BankNifty & Nifty** using Python and Fyers API.  
+🤖 Passionate about Algo Trading, VPS automation, and AI-powered signal analysis.
 
 ---
 
-## 🌸 About Me
+## 🧠 About Me
 
-- ⚙️ Experienced in developing algo strategies using **Fyers API**
-- 📊 Focused on **EMA20–EMA50 + RSI crossover** based option buying setups  
-- 🧠 Skilled in **Python, REST APIs, and VPS-based automation**
-- 💼 Managing personal trading systems with custom scripts & strategies  
-- 🤖 Exploring **AI-powered signal optimization**
+- ⚙️ Experienced in developing **fully automated option-buying bots**  
+- 📈 Expert in **EMA20–EMA50 + RSI crossover** strategies  
+- 🧩 Skilled in **Python, REST APIs, and technical analysis**  
+- 💼 Building algo automation for live trading via VPS  
+- 🔍 Exploring **AI-based trade signal optimization**
 
 ---
 
 ## 🧰 Tech Stack
-![Python](https://img.shields.io/badge/PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Fyers API](https://img.shields.io/badge/FYERS%20API-%23007ACC.svg?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/PANDAS-%23150458.svg?style=for-the-badge&logo=pandas)
-![Git](https://img.shields.io/badge/GIT-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS%20DEPLOYMENT-%23000000.svg?style=for-the-badge)
-![Algo Logic Design](https://img.shields.io/badge/ALGO%20LOGIC%20DESIGN-%23FF8C00.svg?style=for-the-badge)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PANDAS-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VPS%20DEPLOYMENT-%23000000.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GIT-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ALGO%20LOGIC%20DESIGN-%23FF8C00.svg?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🏆 Achievements
 
 - 💹 Built profitable algo setups for **BankNifty option buying**
-- 🤖 Deployed fully automated **VPS trading system**
-- 🧩 Helping traders automate manual strategies  
-- ⚡ Constantly improving risk–reward automation setups  
+- 🤖 Deployed a **fully automated VPS trading system**
+- ⚡ Created **auto-refresh token system** for continuous trading
+- 🧠 Helping traders automate their strategies effectively
 
 ---
 
-## ☕ Support My Work  
+## ☕ Support My Work
 
-If you like my work and want to support more **trading automation innovations**,  
-you can buy me a coffee here 👇  
+<p align="center">
+  <a href="https://www.buymeacoffee.com/swaptrades" target="_blank">
+    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="upi://pay?pa=swapnil.mahajan@ybl&pn=Swapnil%20Mahajan&cu=INR" target="_blank">
+    <img src="https://img.shields.io/badge/💰%20Pay%20via%20UPI-00C853?style=for-the-badge&logo=googlepay&logoColor=white" alt="Pay via UPI" />
+  </a>
+</p>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/swaptrades)
+<p align="center">
+  <b>Support helps me build more trading automations ☕💻</b>
+</p>
 
 ---
 
-## 📬 Connect With Me  
+## 📬 Connect With Me
 
-- 📧 Email: [swapnilmahajan86@gmail.com](mailto:swapnilmahajan86@gmail.com)  
-- 🧠 GitHub: [SwapTrades](https://github.com/SwapTrades)  
+- 📧 Email: **swapnilmahajan86@gmail.com**  
+- 🧭 GitHub: [SwapTrades](https://github.com/SwapTrades)  
 - 💬 Telegram (Private): *On request*
 
 ---
 
 ## 🌙 GitHub Stats (Neon Glow)
 
-![SwapTrades GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwapTrades&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapTrades&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwapTrades&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E0FF&icon_color=00E0FF" height="160em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwapTrades&theme=tokyonight&hide_border=true&ring=00E0FF&fire=00E0FF&currStreakLabel=00E0FF" height="160em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapTrades&layout=compact&theme=tokyonight&hide_border=true&title_color=00E0FF" height="160em"/>
+</p>
 
 ---
 
-### ✨ *Building smart trading automation for BankNifty with precision & innovation!* 🚀
+<p align="center">
+  🌟 <b>If you like my work, please star my repositories!</b> 🌟  
+</p>
