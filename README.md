@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="[https://github.com/SwapTrades/SwapTrades/blob/main/banner.png" alt="SwapTrades Banner](https://raw.githubusercontent.com/SwapTrades/SwapTrades/refs/heads/main/GitHub%20ChatGPT%20Image%20Nov%209%2C%202025%2C%2007_57_10%20AM.png)" width="100%">
+  <img src="https://raw.githubusercontent.com/SwapTrades/SwapTrades/main/GitHub%20ChatGPT%20Image%20Nov%209%2C%202025%2C%2007_57_10%20AM.png" alt="SwapTrades Banner" width="100%">
 </p>
+
 
 # 👋 Hi, I'm Swapnil Mahajan  
 
