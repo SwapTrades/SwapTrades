@@ -13,6 +13,15 @@
 
 ---
 
+## 🔗 All My Algo Trading Scripts
+👉 [SwapTrades-Algo Repository](https://github.com/SwapTrades/SwapTrades-Algo)
+
+All working trading strategies, backtesting files, and live automation scripts are available here.  
+Visit and explore the full algo setup 🚀
+
+---
+
+
 ## 💡 About Me  
 
 🔸 Experienced in developing algo strategies using **Fyers API**  
