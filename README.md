@@ -44,17 +44,16 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/swaptrades" target="_blank">
-    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="upi://pay?pa=swapnil.mahajan@ybl&pn=Swapnil%20Mahajan&cu=INR" target="_blank">
-    <img src="https://img.shields.io/badge/💰%20Pay%20via%20UPI-00C853?style=for-the-badge&logo=googlepay&logoColor=white" alt="Pay via UPI" />
+    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
 </p>
 
-<p align="center">
-  <b>Support helps me build more trading automations ☕💻</b>
-</p>
+### 💰 Pay Directly via UPI (India)
+📱 **swapnil.mahajan@ybl**
+
+Or Scan & Pay 👇  
+<img src="https://raw.githubusercontent.com/SwapTrades/SwapTrades/main/upi_qr.png" width="250"/>
+
 
 ---
 
