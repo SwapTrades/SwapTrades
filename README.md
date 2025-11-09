@@ -40,20 +40,19 @@
 
 ---
 
-## ☕ Support My Work
+---
+
+### 💰 Support My Work (UPI / Direct Pay)
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/swaptrades" target="_blank">
-    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
-  </a>
+  <img src="https://raw.githubusercontent.com/SwapTrades/SwapTrades/refs/heads/main/phone%20pe%20qr.png" width="260" alt="Swapnil UPI QR">
 </p>
 
-### 💰 Pay Directly via UPI (India)
-📱 **swapnil.mahajan@ybl**
-
-Or Scan & Pay 👇  
-<img src="https://raw.githubusercontent.com/SwapTrades/SwapTrades/main/upi_qr.png" width="250"/>
-
+<p align="center">
+  🔹 <b>Name:</b> Swapnil Subhash Mahajan <br>
+  🔹 <b>UPI ID:</b> swapnil.mahajan@ybl <br>
+  🔹 <b>Scan & Pay via PhonePe / GPay / Paytm</b> ☕  
+</p>
 
 ---
 
