@@ -1,3 +1,11 @@
+<!-- Banner: SwapTrades neon -->
+<p align="center">
+  <img src="./banner.svg" alt="SwapTrades Banner" width="900"/>
+</p>
+
+<!-- short spacer -->
+&nbsp;
+
 # 👋 Hi, I'm Swapnil Mahajan  
 
 ### 🧠 Algo Trader | Python Developer | Fyers API Expert  
