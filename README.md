@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SwapTrades/SwapTrades/refs/heads/main/GitHub%20ChatGPT%20Image%20Nov%209%2C%202025%2C%2007_57_10%20AM.png" 
+       alt="SwapTrades Banner" width="900">
+</p>
+
+&nbsp;
+
 # 👋 Hi, I'm Swapnil Mahajan  
 
 ### 🧠 Algo Trader | Python Developer | Fyers API Expert  
