@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/swaptrades" target="_blank">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=☕&slug=swaptrades&button_colour=0A192F&font_colour=00E0FF&font_family=Inter&outline_colour=00E0FF&coffee_colour=ffffff" alt="Buy Me A Coffee" height="50">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="50">
   </a>
 </p>
 
