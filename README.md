@@ -1,89 +1,90 @@
+<!-- 🌌 Neon Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/SwapTrades/SwapTrades/main/GitHub%20ChatGPT%20Image%20Nov%209%2C%202025%2C%2007_57_10%20AM.png" alt="SwapTrades Banner" width="100%">
 </p>
 
-
-# 👋 Hi, I'm Swapnil Mahajan  
-
-🚀 **Algo Trader | Python Developer | Fyers API Expert**  
-📈 Passionate about building automation systems for **BankNifty & Nifty Option Buying**
-
 ---
 
-## 🧠 About Me  
-- 🔥 Experienced in developing algo strategies using **Fyers API**  
-- 🧩 Focused on **EMA20–EMA50 + RSI crossover based option buying setups**  
-- 💻 Skilled in **Python, REST APIs, and VPS-based automation**  
-- 🏦 Managing personal trading systems with custom scripts & strategies  
-- 🌱 Exploring **AI-powered signal optimization**
-
----
-
-## 🛠️ Tech Stack  
+<h2 align="center" style="color:#00e0ff;">⚡ Hi, I'm Swapnil Mahajan</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Fyers%20API-1A73E8?style=for-the-badge&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPS%20Deployment-4D4D4D?style=for-the-badge&logo=server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algo%20Logic%20Design-000000?style=for-the-badge&logo=python&logoColor=yellow" />
+  <b style="color:#00e0ff;">Algo Trader | Python Developer | Automation Strategist</b><br>
+  💡 Passionate about building intelligent trading systems for <b>BankNifty & Nifty</b> using Python & Algo Automation.
 </p>
 
 ---
 
-## 📂 Featured Projects  
-🔹 [SwapTrades-Algo](https://github.com/SwapTrades/SwapTrades-Algo) — Core trading strategies for BankNifty/Nifty  
-🔹 Fyers Token Auto Refresh — Smart token management utility  
-🔹 Coming Soon: Real-time dashboard + Telegram alerts  
+### 🧠 About Me
+- 💼 Experienced in **Algo Strategy Development** using Python  
+- 📈 Focused on **EMA20–EMA50 + RSI crossover based option buying** setups  
+- ⚙️ Skilled in **REST APIs, VPS automation, and technical analysis**  
+- 🤖 Managing **custom-built BankNifty trading bots** on VPS  
+- 🧩 Exploring **AI-powered trade signal optimization**
 
 ---
 
-## 🏆 Achievements  
-- ✅ Built profitable algo setups with BankNifty option buying  
-- ⚙️ Developed fully automated VPS-based trading system  
-- 💬 Helping traders automate their manual strategies  
-
----
-
-## 💬 Connect With Me  
-📧 Email — swapnilmahajan86@gmail.com  
-🌐 GitHub — [SwapTrades](https://github.com/SwapTrades)
-
----
-
-## 📊 GitHub Stats & Contributions  
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwapTrades&show_icons=true&theme=tokyonight&hide_border=true" height="160em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwapTrades&theme=tokyonight&hide_border=true" height="160em"/>
-</p>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapTrades&layout=compact&theme=tokyonight&hide_border=true" height="160em"/>
-</p>
-<br>
-
----
-
-## 🌍 Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwapTrades&theme=tokyo-night&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=00E0FF"/>
+  <img src="https://img.shields.io/badge/REST_API-0A192F?style=for-the-badge&logo=fastapi&logoColor=00E0FF"/>
+  <img src="https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge&logo=pandas&logoColor=00E0FF"/>
+  <img src="https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=00E0FF"/>
+  <img src="https://img.shields.io/badge/VPS_DEPLOYMENT-0A192F?style=for-the-badge&logo=azuredevops&logoColor=00E0FF"/>
+  <img src="https://img.shields.io/badge/ALGO_LOGIC_DESIGN-0A192F?style=for-the-badge&logo=circuitverse&logoColor=00E0FF"/>
 </p>
 
 ---
 
-## 💰 Support My Work  
-If my projects help you, consider supporting me:  
+### 🚀 Featured Projects
+- 🧠 [SwapTrades-Algo](https://github.com/SwapTrades/SwapTrades-Algo) — Core trading strategies for BankNifty & Nifty  
+- 🔁 [Token Auto Refresh Utility](https://github.com/SwapTrades/SwapTrades-Algo) — Smart token refresh & VPS execution  
+- 📊 Upcoming: **Realtime Algo Dashboard + Telegram Alerts**
 
-☕ [Buy Me a Coffee](https://buymeacoffee.com/swaptrades)  
-💬 [Telegram Channel](#) *(Coming soon — Algo trade updates & insights)*  
+---
+
+### 🏆 Achievements
+- ⚡ Built profitable algo setups for BankNifty option buying  
+- 🤖 Deployed fully automated VPS trading system  
+- 🧩 Helping traders automate manual strategies  
+
+---
+
+### ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/swaptrades" target="_blank">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=☕&slug=swaptrades&button_colour=0A192F&font_colour=00E0FF&font_family=Inter&outline_colour=00E0FF&coffee_colour=ffffff" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+---
+
+### 📫 Connect With Me
+- ✉️ Email: **swapnilmahajan86@gmail.com**  
+- 🧭 GitHub: [SwapTrades](https://github.com/SwapTrades)  
+- 💬 Telegram (Private): *On request*
+
+---
+
+### 🌙 GitHub Stats (Neon Glow)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwapTrades&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E0FF&icon_color=00E0FF" height="160em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwapTrades&theme=tokyonight&hide_border=true&ring=00E0FF&fire=00E0FF&currStreakLabel=00E0FF" height="160em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapTrades&layout=compact&theme=tokyonight&hide_border=true&title_color=00E0FF" height="160em"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/SwapTrades?label=Followers&style=social" />
+  <img src="https://user-images.githubusercontent.com/74038190/213726238-28439a75-b258-4c33-9d56-28b7e0030a9e.gif" width="100%" />
 </p>
 
-⭐ **If you like my work, star my repositories!** 🌟
+<p align="center">
+  🌟 <b>If you like my work, please star my repositories!</b> 🌟  
+</p>
+
+---
