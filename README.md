@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/swaptrades" target="_blank">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=☕&slug=swaptrades&button_colour=0A192F&font_colour=00E0FF&font_family=Inter&outline_colour=00E0FF&coffee_colour=ffffff" alt="Buy Me A Coffee" />
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=☕&slug=swaptrades&button_colour=0A192F&font_colour=00E0FF&font_family=Inter&outline_colour=00E0FF&coffee_colour=ffffff" alt="Buy Me A Coffee" height="50">
   </a>
 </p>
 
@@ -67,7 +67,7 @@
 
 ---
 
-### 🌙 GitHub Stats (Neon Glow)
+### 🌙 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SwapTrades&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E0FF&icon_color=00E0FF" height="160em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwapTrades&theme=tokyonight&hide_border=true&ring=00E0FF&fire=00E0FF&currStreakLabel=00E0FF" height="160em"/>
@@ -86,5 +86,3 @@
 <p align="center">
   🌟 <b>If you like my work, please star my repositories!</b> 🌟  
 </p>
-
----
