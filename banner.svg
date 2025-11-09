@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00f5ff"/>
+      <stop offset="50%" stop-color="#00ffb3"/>
+      <stop offset="100%" stop-color="#00f5ff"/>
+    </linearGradient>
+
+    <filter id="neon">
+      <feGaussianBlur stdDeviation="6" result="blur1"/>
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style><![CDATA[
+      .bg { fill:#031026; }
+      .grid { fill:none; stroke:#042033; stroke-width:1; opacity:0.6; }
+      .title { font-family: 'Segoe UI', Roboto, Arial, sans-serif; font-weight:800; font-size:96px; letter-spacing:6px; fill:url(#g1); paint-order:stroke fill; stroke:#042033; stroke-width:2px; filter:url(#neon); }
+      .subtitle { font-family: Inter, Roboto, Arial, sans-serif; font-weight:700; font-size:24px; fill:#8ff6f1; opacity:0.95; }
+      .bar { stroke: url(#g1); stroke-width:6; stroke-linecap:round; opacity:0.95; }
+    ]]></style>
+  </defs>
+
+  <!-- background -->
+  <rect class="bg" width="1200" height="300" rx="18"/>
+
+  <!-- faint grid -->
+  <g opacity="0.12">
+    <g stroke="#063043" stroke-width="1">
+      <!-- vertical lines -->
+      <g>
+        <!-- generate lines -->
+        <line x1="0" y1="0" x2="0" y2="300" transform="translate(0,0)"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- decorative thin horizontal bar -->
+  <line x1="120" y1="190" x2="780" y2="190" class="bar"/>
+
+  <!-- Title -->
+  <text x="120" y="140" class="title">SWAPTRADES</text>
+
+  <!-- Subtitle -->
+  <text x="120" y="220" class="subtitle">ALGO TRADER  |  PYTHON AUTOMATION  |  UPI • BUY ME A COFFEE</text>
+
+  <!-- small corner robot / candles (right) -->
+  <g transform="translate(940,40)" opacity="0.95" stroke="#00f5ff" stroke-width="3" fill="none">
+    <rect x="0" y="0" width="200" height="120" rx="12" opacity="0.02" />
+    <circle cx="160" cy="10" r="6" fill="#00ffb3" opacity="0.95"/>
+    <g transform="translate(20,16)" stroke-linecap="round">
+      <rect x="0" y="0" width="80" height="60" rx="8" stroke="#00f5ff" stroke-width="3" fill="none"/>
+      <circle cx="64" cy="24" r="8" fill="#00ffb3" />
+      <circle cx="40" cy="24" r="6" fill="#00ffb3" />
+    </g>
+  </g>
+
+  <!-- subtle overlay glow (for chrome) -->
+  <rect x="0" y="0" width="1200" height="300" rx="18" fill="url(#g1)" opacity="0.02"/>
+
+</svg>
