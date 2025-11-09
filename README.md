@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/SwapTrades/SwapTrades/blob/main/banner.png" alt="SwapTrades Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Swapnil Mahajan  
 
 🚀 **Algo Trader | Python Developer | Fyers API Expert**  
